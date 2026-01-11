@@ -6,15 +6,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Siitrox's website
+title:                 Siitrox's blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal website, used to publish my CTFs writeups
+  Personal website, used to publish my CTFs writeups, projects updates, share some hard gained knowledge.
 
 # A shorter description for the sidebar.
-tagline:               Welcome to my website !
+tagline:               
 
 # A list of keywords for your blog
 keywords:              []
@@ -36,8 +36,10 @@ menu:
   #  url:               /example/
   #- title:             Documentation
   #  url:               /docs/
+  - title:             Projects
+    url:               /Projects/
   - title:             Writeups
-    url:               /Writeups
+    url:               /Writeups/
   - title:             About
     url:               /about/
 
