@@ -11,6 +11,7 @@ gem "kramdown-math-katex"
 gem "duktape"
 
 # Required for Ruby 3.4+ locally
+gem "erb"
 gem "csv"
 gem "logger"
 gem "base64"
@@ -32,3 +33,5 @@ end
 
 # Remote theme support - only downlaod at build time
 gem "jekyll-remote-theme"
+
+gem "webrick", "~> 1.9"
