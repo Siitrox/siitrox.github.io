@@ -29,6 +29,9 @@ logo:                  /assets/img/logo_final.png
 author:
   # Used by `jekyll-feed`:
   name:                Siitrox
+  social:
+    github: https://github.com/Siitrox
+    linkedin: https://www.linkedin.com/in/maxim-houman-360b26300
 
 # Add links to the sidebar.
 menu:
